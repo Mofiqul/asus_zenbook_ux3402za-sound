@@ -1,5 +1,5 @@
 # Asus Zenbook ux3402za sound fix under Linux
-
+Originallay found [here](https://www.reddit.com/r/ASUS/comments/10iv09h/comment/jdv0o22/)
 * edit ssdt.dsl if needed 
 
 ## Build the DSDT patch
